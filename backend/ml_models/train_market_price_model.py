@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyA-pp1E_vasIhFUCIlidycGkw242QQPa_M")
+genai.configure(api_key="Enter the key")
 
 # Use the correct model from your list
 model = genai.GenerativeModel("gemini-flash-latest")
