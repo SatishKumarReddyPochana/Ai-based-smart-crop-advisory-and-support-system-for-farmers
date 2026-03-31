@@ -6,7 +6,7 @@ import requests
 weather_bp = Blueprint('weather_bp', __name__)
 
 API_KEY = "Enter the key"
-BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+BASE_URL = "Enter the website"
 
 def generate_advice(temp, humidity, rainfall, wind_speed, cloud):
     advice = []
