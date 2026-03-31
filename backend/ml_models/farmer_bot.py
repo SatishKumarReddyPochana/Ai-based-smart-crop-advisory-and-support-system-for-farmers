@@ -4,7 +4,7 @@ import json
 # -----------------------------------------------------
 # 1. Configure Gemini API
 # -----------------------------------------------------
-genai.configure(api_key="AIzaSyA-pp1E_vasIhFUCIlidycGkw242QQPa_M")
+genai.configure(api_key="Enter the key")
 
 # Load Gemini Model
 model = genai.GenerativeModel("gemini-flash-latest")
