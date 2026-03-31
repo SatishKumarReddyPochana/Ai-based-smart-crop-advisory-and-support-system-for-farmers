@@ -1,0 +1,16 @@
+crop,region,month,unit,quantity,price_per_unit
+Wheat,Delhi,1,Quintal,10,2100
+Rice,Pune,3,Kg,100,35
+Maize,Nagpur,6,Kg,80,25
+Wheat,Mumbai,10,Quintal,15,2000
+Rice,Delhi,12,Kg,120,38
+Maize,Bhopal,5,Kg,90,28
+Wheat,Pune,11,Quintal,12,2050
+Rice,Nagpur,2,Kg,110,36
+Maize,Delhi,7,Kg,85,27
+Wheat,Bhopal,3,Quintal,14,2150
+Rice,Mumbai,9,Kg,130,40
+Maize,Pune,4,Kg,95,30
+Wheat,Nagpur,8,Quintal,11,1980
+Rice,Bhopal,6,Kg,125,37
+Maize,Mumbai,1,Kg,100,26s

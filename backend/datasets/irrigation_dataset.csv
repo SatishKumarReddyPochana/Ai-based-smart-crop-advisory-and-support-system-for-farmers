@@ -1,0 +1,11 @@
+crop_type,soil_type,temperature,humidity,rainfall,soil_moisture,season,irrigation_duration,water_required
+wheat,loamy,25,60,10,35,Rabi,45,500
+rice,clay,30,80,120,50,Kharif,60,800
+cotton,sandy,33,40,5,20,Summer,30,300
+maize,loamy,28,55,25,38,Kharif,40,450
+sugarcane,clay,32,75,90,55,Spring,65,900
+millet,sandy,35,35,2,18,Summer,25,250
+barley,loamy,20,65,12,40,Rabi,50,550
+soybean,clay,29,70,60,45,Kharif,55,700
+sorghum,sandy,34,30,3,15,Summer,20,200
+groundnut,loamy,27,50,15,32,Rabi,35,400

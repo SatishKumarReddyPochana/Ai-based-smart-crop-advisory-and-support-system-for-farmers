@@ -1,0 +1,54 @@
+/* Sidebar.css */
+.sidebar {
+  width: 240px;
+  min-width: 240px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.sidebar-brand .brand-emoji {
+  font-size: 28px;
+}
+
+.sidebar-brand .brand-text {
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 4px;
+  color: #ffffff;
+}
+
+/* link default */
+.sidebar .nav-link {
+  color: rgba(255,255,255,0.92);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background .12s ease, color .12s ease;
+}
+
+/* hover */
+.sidebar .nav-link:hover {
+  background: rgba(255,255,255,0.05);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* active */
+.sidebar .nav-link.active {
+  background: rgba(255,255,255,0.08);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* small adjustments */
+.sidebar .icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ensure main content isn't hidden: your main layout should add margin-left: 240px */

@@ -1,0 +1,358 @@
+crop,pest_type,symptom,pesticide,application_method,toxicity_level
+rice,fungal,brown spot,Hexaconazole,spray,medium
+rice,bacterial,bacterial leaf streak,Kasugamycin,spray,low
+rice,insect,leaf folder,Cartap Hydrochloride,spray,high
+wheat,fungal,powdery mildew,Tebuconazole,spray,medium
+wheat,bacterial,bacterial blight,Streptomycin,spray,low
+wheat,insect,armyworm,Chlorpyrifos,spray,high
+maize,fungal,gray leaf spot,Boscalid,spray,medium
+maize,insect,fall armyworm,Emamectin Benzoate,spray,high
+maize,bacterial,leaf blight,Copper Oxychloride,spray,low
+cotton,fungal,alternaria leaf spot,Azoxystrobin,spray,medium
+cotton,insect,spotted bollworm,Indoxacarb,spray,high
+cotton,bacterial,bacterial blight,Streptomycin,spray,low
+sugarcane,fungal,smut,Fenoxanil,spray,medium
+sugarcane,insect,top shoot borer,Chlorantraniliprole,spray,high
+sugarcane,bacterial,leaf scald,Oxytetracycline,spray,low
+tomato,fungal,fusarium wilt,Carbendazim,spray,medium
+tomato,insect,tomato fruit borer,Spinosad,spray,high
+tomato,bacterial,bacterial wilt,Streptomycin,spray,low
+potato,fungal,early blight,Chlorothalonil,spray,medium
+potato,insect,Colorado potato beetle,Imidacloprid,spray,high
+potato,bacterial,blackleg,Streptomycin,spray,low
+onion,fungal,white rot,Thiram,spray,medium
+onion,insect,thrips,Acetamiprid,spray,medium
+onion,bacterial,bacterial soft rot,Streptomycin,spray,low
+brinjal,fungal,phomopsis blight,Metalaxyl,spray,medium
+brinjal,insect,brinjal fruit and shoot borer,Spinosad,spray,high
+brinjal,bacterial,bacterial wilt,Kasugamycin,spray,low
+okra,fungal,leaf spot,Azoxystrobin,spray,medium
+okra,insect,stem borer,Cartap Hydrochloride,spray,high
+okra,bacterial,bacterial wilt,Streptomycin,spray,low
+cauliflower,fungal,downy mildew,Fosetyl-Al,spray,medium
+cauliflower,insect,cabbage aphid,Imidacloprid,spray,medium
+cauliflower,bacterial,black rot,Streptomycin,spray,low
+cabbage,fungal,clubroot,Thiabendazole,spray,medium
+cabbage,insect,diamondback moth,Bt formulation,spray,low
+cabbage,bacterial,black rot,Streptomycin,spray,low
+banana,fungal,panama wilt,Fenamidone,spray,medium
+banana,insect,banana weevil,Chlorantraniliprole,soil application,high
+banana,bacterial,bacterial wilt,Kasugamycin,spray,low
+mango,fungal,anthracnose,Carbendazim,spray,medium
+mango,insect,mango hoppers,Imidacloprid,spray,high
+mango,bacterial,bacterial black spot,Streptomycin,spray,low
+groundnut,fungal,aspergillus rot,Azoxystrobin,spray,medium
+groundnut,insect,red hairy caterpillar,Spinosad,spray,high
+groundnut,bacterial,bacterial wilt,Streptomycin,spray,low
+soybean,fungal,rust,Propiconazole,spray,medium
+soybean,insect,leaf miner,Emamectin Benzoate,spray,high
+soybean,bacterial,bacterial blight,Copper Oxychloride,spray,low
+mustard,fungal,white rust,Hexaconazole,spray,medium
+mustard,insect,aphid infestation,Imidacloprid,spray,low
+mustard,bacterial,black leg,Streptomycin,spray,low
+cowpea,fungal,leaf spot,Carbendazim,spray,medium
+cowpea,insect,pod borer,Spinosad,spray,high
+cowpea,bacterial,bacterial blight,Kasugamycin,spray,low
+bajra,fungal,leaf blast,Propiconazole,spray,medium
+bajra,insect,stem borer,Cartap Hydrochloride,spray,high
+bajra,bacterial,leaf streak,Kasugamycin,spray,low
+jowar,fungal,gray leaf spot,Boscalid,spray,medium
+jowar,insect,earhead caterpillar,Emamectin Benzoate,spray,high
+jowar,bacterial,red stripe,Streptomycin,spray,low
+ragi,fungal,powdery mildew,Tebuconazole,spray,medium
+ragi,insect,shoot fly,Imidacloprid,spray,high
+ragi,bacterial,leaf blight,Copper Oxychloride,spray,low
+blackgram,fungal,leaf curl,Azoxystrobin,spray,medium
+blackgram,insect,aphid infestation,Thiamethoxam,spray,low
+blackgram,bacterial,bacterial blight,Streptomycin,spray,low
+greengram,fungal,anthracnose,Carbendazim,spray,medium
+greengram,insect,spider mite,Emamectin Benzoate,spray,high
+greengram,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+lentil,fungal,ascochyta blight,Hexaconazole,spray,medium
+lentil,insect,aphid infestation,Imidacloprid,spray,low
+lentil,bacterial,bacterial wilt,Streptomycin,spray,low
+pigeonpea,fungal,fusarium wilt,Carbendazim,spray,medium
+pigeonpea,insect,stem borer,Cartap Hydrochloride,spray,high
+pigeonpea,bacterial,bacterial blight,Kasugamycin,spray,low
+chickpea,fungal,botrytis gray mold,Azoxystrobin,spray,medium
+chickpea,insect,gram pod borer,Spinosad,spray,high
+chickpea,bacterial,bacterial blight,Streptomycin,spray,low
+cowpea,fungal,powdery mildew,Tebuconazole,spray,medium
+cowpea,insect,maruca pod borer,Indoxacarb,spray,high
+cowpea,bacterial,bacterial blight,Kasugamycin,spray,low
+sesame,fungal,alternaria leaf spot,Metalaxyl,spray,medium
+sesame,insect,leaf webber,Emamectin Benzoate,spray,high
+sesame,bacterial,bacterial leaf spot,Streptomycin,spray,low
+sunflower,fungal,downy mildew,Fosetyl-Al,spray,medium
+sunflower,insect,Helicoverpa armigera,Spinosad,spray,high
+sunflower,bacterial,bacterial leaf blight,Kasugamycin,spray,low
+sorghum,fungal,red leaf spot,Propiconazole,spray,medium
+sorghum,insect,shoot fly,Imidacloprid,spray,high
+sorghum,bacterial,leaf streak,Streptomycin,spray,low
+apple,fungal,apple scab,Captan,spray,medium
+apple,insect,apple codling moth,Emamectin Benzoate,spray,high
+apple,bacterial,bacterial canker,Kasugamycin,spray,low
+grapes,fungal,downy mildew,Metalaxyl,spray,medium
+grapes,insect,grape berry moth,Spinosad,spray,high
+grapes,bacterial,bacterial blight,Streptomycin,spray,low
+pomegranate,fungal,fruit rot,Carbendazim,spray,medium
+pomegranate,insect,pomegranate butterfly,Cartap Hydrochloride,spray,high
+pomegranate,bacterial,bacterial blight,Kasugamycin,spray,low
+cucumber,fungal,powdery mildew,Tebuconazole,spray,medium
+cucumber,insect,cucumber beetle,Imidacloprid,spray,high
+cucumber,bacterial,bacterial wilt,Streptomycin,spray,low
+pumpkin,fungal,anthracnose,Azoxystrobin,spray,medium
+pumpkin,insect,pumpkin fruit fly,Spinosad,spray,high
+pumpkin,bacterial,bacterial wilt,Kasugamycin,spray,low
+banana,fungal,black sigatoka,Propiconazole,spray,medium
+banana,insect,banana weevil,Cypermethrin,spray,high
+banana,bacterial,bacterial wilt,Streptomycin,spray,low
+mango,fungal,powdery mildew,Tebuconazole,spray,medium
+mango,insect,mango hoppers,Imidacloprid,spray,high
+mango,bacterial,bacterial black spot,Kasugamycin,spray,low
+groundnut,fungal,early leaf spot,Hexaconazole,spray,medium
+groundnut,insect,leaf miner,Emamectin Benzoate,spray,high
+groundnut,bacterial,bacterial wilt,Streptomycin,spray,low
+soybean,fungal,rust,Azoxystrobin,spray,medium
+soybean,insect,soybean aphid,Thiamethoxam,spray,low
+soybean,bacterial,bacterial blight,Kasugamycin,spray,low
+mustard,fungal,white rust,Propiconazole,spray,medium
+mustard,insect,aphid infestation,Imidacloprid,spray,low
+mustard,bacterial,bacterial blight,Streptomycin,spray,low
+tomato,fungal,bacterial leaf spot,Azoxystrobin,spray,medium
+tomato,insect,tomato fruit borer,Spinosad,spray,high
+tomato,bacterial,bacterial wilt,Streptomycin,spray,low
+potato,fungal,early blight,Chlorothalonil,spray,medium
+potato,insect,Colorado potato beetle,Imidacloprid,spray,high
+potato,bacterial,soft rot,Streptomycin,spray,low
+onion,fungal,downy mildew,Metalaxyl,spray,medium
+onion,insect,onion thrips,Thiamethoxam,spray,low
+onion,bacterial,bacterial soft rot,Kasugamycin,spray,low
+brinjal,fungal,Phomopsis blight,Carbendazim,spray,medium
+brinjal,insect,fruit and shoot borer,Spinosad,spray,high
+brinjal,bacterial,bacterial wilt,Streptomycin,spray,low
+okra,fungal,leaf spot,Propiconazole,spray,medium
+okra,insect,jassids,Imidacloprid,spray,low
+okra,bacterial,bacterial blight,Kasugamycin,spray,low
+cauliflower,fungal,black rot,Azoxystrobin,spray,medium
+cauliflower,insect,diamondback moth,Spinosad,spray,high
+cauliflower,bacterial,bacterial soft rot,Streptomycin,spray,low
+cabbage,fungal,downy mildew,Tebuconazole,spray,medium
+cabbage,insect,cabbage aphid,Thiamethoxam,spray,low
+cabbage,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+apple,fungal,apple powdery mildew,Tebuconazole,spray,medium
+apple,insect,apple aphid,Imidacloprid,spray,low
+apple,bacterial,bacterial canker,Streptomycin,spray,low
+grapes,fungal,black rot,Azoxystrobin,spray,medium
+grapes,insect,mealy bug,Spinosad,spray,high
+grapes,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+pomegranate,fungal,fruit rot,Carbendazim,spray,medium
+pomegranate,insect,pomegranate aphid,Imidacloprid,spray,low
+pomegranate,bacterial,bacterial blight,Streptomycin,spray,low
+cucumber,fungal,powdery mildew,Tebuconazole,spray,medium
+cucumber,insect,cucumber mite,Thiamethoxam,spray,low
+cucumber,bacterial,bacterial wilt,Kasugamycin,spray,low
+pumpkin,fungal,anthracnose,Azoxystrobin,spray,medium
+pumpkin,insect,pumpkin fruit fly,Spinosad,spray,high
+pumpkin,bacterial,bacterial wilt,Streptomycin,spray,low
+chickpea,fungal,ascochyta blight,Propiconazole,spray,medium
+chickpea,insect,pod borer,Spinosad,spray,high
+chickpea,bacterial,bacterial blight,Streptomycin,spray,low
+lentil,fungal,botrytis grey mold,Azoxystrobin,spray,medium
+lentil,insect,aphids,Imidacloprid,spray,low
+lentil,bacterial,bacterial blight,Kasugamycin,spray,low
+blackgram,fungal,leaf curl,Metalaxyl,spray,medium
+blackgram,insect,pod borer,Thiamethoxam,spray,high
+blackgram,bacterial,bacterial wilt,Streptomycin,spray,low
+greengram,fungal,mildew,Propiconazole,spray,medium
+greengram,insect,whitefly,Imidacloprid,spray,low
+greengram,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+bajra,fungal,downy mildew,Metalaxyl,spray,medium
+bajra,insect,shoot fly,Imidacloprid,spray,high
+bajra,bacterial,bacterial leaf streak,Streptomycin,spray,low
+jowar,fungal,grain mold,Tebuconazole,spray,medium
+jowar,insect,stem borer,Spinosad,spray,high
+jowar,bacterial,bacterial blight,Kasugamycin,spray,low
+ragi,fungal,leaf blast,Propiconazole,spray,medium
+ragi,insect,shoot fly,Imidacloprid,spray,high
+ragi,bacterial,bacterial wilt,Streptomycin,spray,low
+barley,fungal,leaf rust,Tebuconazole,spray,medium
+barley,insect,aphids,Thiamethoxam,spray,low
+barley,bacterial,bacterial leaf streak,Kasugamycin,spray,low
+millet,fungal,finger millet blast,Azoxystrobin,spray,medium
+millet,insect,shoot fly,Imidacloprid,spray,high
+millet,bacterial,bacterial leaf blight,Streptomycin,spray,low
+sorghum,fungal,grain mold,Tebuconazole,spray,medium
+sorghum,insect,stem borer,Spinosad,spray,high
+sorghum,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+cowpea,fungal,anthracnose,Propiconazole,spray,medium
+cowpea,insect,aphid infestation,Imidacloprid,spray,low
+cowpea,bacterial,bacterial blight,Streptomycin,spray,low
+sweetpotato,fungal,root rot,Metalaxyl,spray,medium
+sweetpotato,insect,wireworm,Thiamethoxam,spray,high
+sweetpotato,bacterial,bacterial wilt,Kasugamycin,spray,low
+radish,fungal,leaf spot,Azoxystrobin,spray,medium
+radish,insect,root fly,Spinosad,spray,high
+radish,bacterial,bacterial blight,Streptomycin,spray,low
+carrot,fungal,alternaria leaf blight,Tebuconazole,spray,medium
+carrot,insect,carrot fly,Imidacloprid,spray,high
+carrot,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+spinach,fungal,downy mildew,Metalaxyl,spray,medium
+spinach,insect,leaf miner,Thiamethoxam,spray,low
+spinach,bacterial,bacterial leaf spot,Streptomycin,spray,low
+lettuce,fungal,botrytis,Azoxystrobin,spray,medium
+lettuce,insect,aphid infestation,Imidacloprid,spray,low
+lettuce,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+pea,fungal,ascochyta blight,Propiconazole,spray,medium
+pea,insect,pea aphid,Imidacloprid,spray,low
+pea,bacterial,bacterial blight,Streptomycin,spray,low
+cauliflower,fungal,black rot,Azoxystrobin,spray,medium
+cauliflower,insect,cabbage butterfly,Spinosad,spray,high
+cauliflower,bacterial,bacterial soft rot,Kasugamycin,spray,low
+cabbage,fungal,downy mildew,Tebuconazole,spray,medium
+cabbage,insect,cabbage aphid,Thiamethoxam,spray,low
+cabbage,bacterial,bacterial leaf spot,Streptomycin,spray,low
+cucumber,fungal,powdery mildew,Propiconazole,spray,medium
+cucumber,insect,cucumber mite,Imidacloprid,spray,low
+cucumber,bacterial,bacterial wilt,Kasugamycin,spray,low
+pumpkin,fungal,anthracnose,Azoxystrobin,spray,medium
+pumpkin,insect,pumpkin fruit fly,Spinosad,spray,high
+pumpkin,bacterial,bacterial wilt,Streptomycin,spray,low
+bittergourd,fungal,powdery mildew,Tebuconazole,spray,medium
+bittergourd,insect,fruit fly,Thiamethoxam,spray,high
+bittergourd,bacterial,bacterial wilt,Kasugamycin,spray,low
+bottle gourd,fungal,downy mildew,Metalaxyl,spray,medium
+bottle gourd,insect,leaf miner,Imidacloprid,spray,low
+bottle gourd,bacterial,bacterial blight,Streptomycin,spray,low
+watermelon,fungal,anthracnose,Propiconazole,spray,medium
+watermelon,insect,melon fly,Spinosad,spray,high
+watermelon,bacterial,bacterial wilt,Kasugamycin,spray,low
+muskmelon,fungal,powdery mildew,Tebuconazole,spray,medium
+muskmelon,insect,melon aphid,Imidacloprid,spray,low
+muskmelon,bacterial,bacterial leaf spot,Streptomycin,spray,low
+strawberry,fungal,gray mold,Azoxystrobin,spray,medium
+strawberry,insect,spider mite,Thiamethoxam,spray,low
+strawberry,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+papaya,fungal,anthracnose,Carbendazim,spray,medium
+papaya,insect,fruit fly,Spinosad,spray,high
+papaya,bacterial,bacterial crown rot,Streptomycin,spray,low
+guava,fungal,anthracnose,Tebuconazole,spray,medium
+guava,insect,guava fruit fly,Imidacloprid,spray,high
+guava,bacterial,bacterial wilt,Kasugamycin,spray,low
+pineapple,fungal,heart rot,Propiconazole,spray,medium
+pineapple,insect,mealy bug,Thiamethoxam,spray,low
+pineapple,bacterial,bacterial wilt,Streptomycin,spray,low
+orange,fungal,greasy spot,Azoxystrobin,spray,medium
+orange,insect,citrus psylla,Imidacloprid,spray,low
+orange,bacterial,citrus canker,Kasugamycin,spray,low
+lemon,fungal,phytophthora root rot,Tebuconazole,spray,medium
+lemon,insect,citrus leaf miner,Thiamethoxam,spray,low
+lemon,bacterial,citrus canker,Streptomycin,spray,low
+grapes,fungal,downy mildew,Metalaxyl,spray,medium
+grapes,insect,grape mealy bug,Spinosad,spray,high
+grapes,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+apple,fungal,apple scab,Azoxystrobin,spray,medium
+apple,insect,apple codling moth,Imidacloprid,spray,high
+apple,bacterial,bacterial canker,Streptomycin,spray,low
+mango,fungal,anthracnose,Carbendazim,spray,medium
+mango,insect,mango hoppers,Imidacloprid,spray,high
+mango,bacterial,bacterial black spot,Streptomycin,spray,low
+banana,fungal,panama wilt,Tebuconazole,spray,medium
+banana,insect,banana weevil,Thiamethoxam,spray,high
+banana,bacterial,bacterial wilt,Kasugamycin,spray,low
+papaya,fungal,powdery mildew,Propiconazole,spray,medium
+papaya,insect,papaya fruit fly,Spinosad,spray,high
+papaya,bacterial,bacterial crown rot,Streptomycin,spray,low
+pineapple,fungal,fruit rot,Azoxystrobin,spray,medium
+pineapple,insect,mealy bug,Imidacloprid,spray,low
+pineapple,bacterial,bacterial heart rot,Kasugamycin,spray,low
+guava,fungal,anthracnose,Carbendazim,spray,medium
+guava,insect,guava fruit fly,Thiamethoxam,spray,high
+guava,bacterial,bacterial wilt,Streptomycin,spray,low
+grapes,fungal,downy mildew,Metalaxyl,spray,medium
+grapes,insect,grape berry moth,Spinosad,spray,high
+grapes,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+apple,fungal,apple scab,Tebuconazole,spray,medium
+apple,insect,apple codling moth,Imidacloprid,spray,high
+apple,bacterial,bacterial canker,Streptomycin,spray,low
+orange,fungal,greasy spot,Azoxystrobin,spray,medium
+orange,insect,citrus leaf miner,Thiamethoxam,spray,low
+orange,bacterial,citrus canker,Kasugamycin,spray,low
+lemon,fungal,phytophthora root rot,Propiconazole,spray,medium
+lemon,insect,citrus psylla,Imidacloprid,spray,low
+lemon,bacterial,citrus canker,Streptomycin,spray,low
+strawberry,fungal,gray mold,Carbendazim,spray,medium
+strawberry,insect,spider mite,Thiamethoxam,spray,low
+strawberry,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+tomato,fungal,early blight,Azoxystrobin,spray,medium
+tomato,insect,tomato fruit borer,Spinosad,spray,high
+tomato,bacterial,bacterial wilt,Streptomycin,spray,low
+potato,fungal,late blight,Metalaxyl,spray,medium
+potato,insect,Colorado potato beetle,Imidacloprid,spray,high
+potato,bacterial,blackleg,Kasugamycin,spray,low
+onion,fungal,purple blotch,Propiconazole,spray,medium
+onion,insect,onion thrips,Thiamethoxam,spray,low
+onion,bacterial,bacterial rot,Streptomycin,spray,low
+brinjal,fungal,verticillium wilt,Tebuconazole,spray,medium
+brinjal,insect,brinjal fruit and shoot borer,Spinosad,spray,high
+brinjal,bacterial,bacterial wilt,Kasugamycin,spray,low
+okra,fungal,fusarium wilt,Propiconazole,spray,medium
+okra,insect,leafhopper,Imidacloprid,spray,low
+okra,bacterial,bacterial blight,Streptomycin,spray,low
+cabbage,fungal,downy mildew,Azoxystrobin,spray,medium
+cabbage,insect,cabbage aphid,Thiamethoxam,spray,low
+cabbage,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+cauliflower,fungal,black rot,Carbendazim,spray,medium
+cauliflower,insect,cabbage butterfly,Spinosad,spray,high
+cauliflower,bacterial,bacterial soft rot,Streptomycin,spray,low
+blackgram,fungal,leaf spot,Carbendazim,spray,medium
+blackgram,insect,aphid infestation,Imidacloprid,spray,low
+blackgram,bacterial,bacterial leaf blight,Streptomycin,spray,low
+greengram,fungal,powdery mildew,Tebuconazole,spray,medium
+greengram,insect,pod borer,Spinosad,spray,high
+greengram,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+pigeonpea,fungal,sterility mosaic,Propiconazole,spray,medium
+pigeonpea,insect,stem borer,Thiamethoxam,spray,high
+pigeonpea,bacterial,bacterial blight,Streptomycin,spray,low
+lentil,fungal,anthracnose,Carbendazim,spray,medium
+lentil,insect,aphid infestation,Imidacloprid,spray,low
+lentil,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+cowpea,fungal,fusarium wilt,Propiconazole,spray,medium
+cowpea,insect,cowpea pod borer,Spinosad,spray,high
+cowpea,bacterial,bacterial blight,Streptomycin,spray,low
+bajra,fungal,downy mildew,Metalaxyl,spray,medium
+bajra,insect,shoot fly,Imidacloprid,spray,low
+bajra,bacterial,bacterial leaf streak,Kasugamycin,spray,low
+jowar,fungal,grain mold,Propiconazole,spray,medium
+jowar,insect,stem borer,Thiamethoxam,spray,high
+jowar,bacterial,bacterial leaf spot,Streptomycin,spray,low
+ragi,fungal,blast disease,Carbendazim,spray,medium
+ragi,insect,shoot fly,Imidacloprid,spray,low
+ragi,bacterial,bacterial leaf streak,Kasugamycin,spray,low
+barley,fungal,net blotch,Tebuconazole,spray,medium
+barley,insect,aphid infestation,Thiamethoxam,spray,low
+barley,bacterial,bacterial blight,Streptomycin,spray,low
+sorghum,fungal,fusarium wilt,Propiconazole,spray,medium
+sorghum,insect,stem borer,Spinosad,spray,high
+sorghum,bacterial,bacterial leaf spot,Kasugamycin,spray,low
+millet,fungal,leaf rust,Carbendazim,spray,medium
+millet,insect,shoot fly,Imidacloprid,spray,low
+millet,bacterial,bacterial leaf streak,Streptomycin,spray,low
+sunflower,fungal,downy mildew,Metalaxyl,spray,medium
+sunflower,insect,aphid infestation,Thiamethoxam,spray,low
+sunflower,bacterial,bacterial blight,Kasugamycin,spray,low
+groundnut,fungal,early leaf spot,Propiconazole,spray,medium
+groundnut,insect,leaf miner,Imidacloprid,spray,low
+groundnut,bacterial,bacterial wilt,Streptomycin,spray,low
+soybean,fungal,soybean rust,Tebuconazole,spray,medium
+soybean,insect,soybean aphid,Thiamethoxam,spray,low
+soybean,bacterial,bacterial blight,Kasugamycin,spray,low
+mustard,fungal,white rust,Carbendazim,spray,medium
+mustard,insect,aphid infestation,Imidacloprid,spray,low
+mustard,bacterial,bacterial blight,Streptomycin,spray,low
+safflower,fungal,alternaria leaf spot,Propiconazole,spray,medium
+safflower,insect,aphid infestation,Thiamethoxam,spray,low
+safflower,bacterial,bacterial blight,Kasugamycin,spray,low
+tobacco,fungal,black shank,Metalaxyl,spray,medium
+tobacco,insect,cutworm,Imidacloprid,spray,high
+tobacco,bacterial,bacterial wilt,Streptomycin,spray,low

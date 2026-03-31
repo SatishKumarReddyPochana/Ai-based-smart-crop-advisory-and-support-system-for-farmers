@@ -1,0 +1,113 @@
+/* Navbar.css */
+
+/* Navbar */
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 2rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.25rem;
+  color: #2c3e50;
+}
+
+/* Profile button */
+.navbar .btn-outline-dark {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 30px;
+  border: 1px solid #ccc;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar .btn-outline-dark:hover {
+  background-color: #f0f0f0;
+  border-color: #888;
+}
+
+/* Dropdown card */
+.dropdown-menu {
+  background-color: #fff;
+  border: none;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  padding: 1rem;
+  min-width: 250px;
+
+  /* Animation */
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  pointer-events: none;
+}
+
+.dropdown-menu.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.dropdown-menu .text-center img {
+  border: 3px solid #2c3e50;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dropdown-menu .text-center img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* Buttons inside dropdown */
+.dropdown-menu .btn-light {
+  font-size: 0.9rem;
+  padding: 0.35rem 0;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  transition: all 0.2s ease;
+}
+
+.dropdown-menu .btn-light:hover {
+  background-color: #f5f5f5;
+}
+
+.dropdown-menu .btn-light.text-danger:hover {
+  background-color: #ffe6e6;
+}
+
+/* Username in dropdown */
+.dropdown-menu h6 {
+  font-size: 1rem;
+  color: #2c3e50;
+  margin-top: 0.25rem;
+}
+
+/* Optional: small triangle indicator */
+.dropdown-menu::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  right: 16px;
+  border-width: 0 8px 8px 8px;
+  border-style: solid;
+  border-color: transparent transparent #fff transparent;
+}
+
+/* Profile thumbnail inside button */
+.navbar .btn-outline-dark img {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.navbar .btn-outline-dark img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+}

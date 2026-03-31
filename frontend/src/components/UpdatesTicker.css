@@ -1,0 +1,13 @@
+.updates-bar {
+  background-color: #198754; /* green (bootstrap success) */
+  color: white;
+  padding: 8px;
+  font-weight: 500;
+  font-size: 14px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.update-item {
+  margin-right: 20px;
+}
