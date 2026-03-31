@@ -20,7 +20,7 @@ app = Flask(__name__)
 CORS(app)
 
 # ------------------- PostgreSQL -------------------
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:Satish%40359@localhost/agrigenius_db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'Enter your key'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # ------------------- File Upload -------------------
